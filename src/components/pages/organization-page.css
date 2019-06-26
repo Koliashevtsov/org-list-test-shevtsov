@@ -1,0 +1,19 @@
+.jumbotron-fluid {
+  position: relative;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.85);
+}
+.location {
+  position: absolute;
+  right: 0;
+  bottom: 5px;
+  font-size: 12px;
+}
+.users-list-cont {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.85);
+}
+h2.header {
+  font-size: 24px;
+}
+.table td {
+  vertical-align: middle;
+}

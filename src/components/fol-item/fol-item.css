@@ -1,0 +1,14 @@
+.fol-avatar {
+  width: 40px;
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+.fol-avatar img{
+  max-width: 100%;
+  height: auto;
+}
+li {
+  vertical-align: middle;
+  margin-bottom: 8px;
+}

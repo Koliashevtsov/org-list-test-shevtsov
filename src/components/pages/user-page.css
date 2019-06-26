@@ -1,0 +1,32 @@
+.page-container {
+  display: flex;
+  margin-top: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.85);
+  padding: 25px;
+}
+
+.page-avatar img{
+  width: 150px;
+  height: auto;
+}
+.main-info {
+  margin-left: auto;
+  text-align: right;
+
+}
+.user-login {
+  font-size: 30px;
+  font-weight: bold;
+}
+.main {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.85);
+  margin-top: 30px;
+}
+p.description {
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+}
+li {
+  text-align: left;
+}
